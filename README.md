@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nevercade
 - 👀 I’m interested in making games!
-- 🤍 My current production setup is GameMaker Studio 2 and GraphicsGale
-- 🌱 I’m currently branching out into 3D work, and experimenting with engines
+- 🤍 My current production setup is GameMaker Studio 2 for coding and GraphicsGale for art
+- 🌱 I’m currently branching out into 3D work, and experimenting with unreal engine and unity
 - 📫 How to reach me: My username is the same across github, twitter, and instagram!
 
 <!---
