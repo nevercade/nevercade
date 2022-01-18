@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nevercade
 - 🤍 My current production setup is GameMaker Studio 2 for coding and GraphicsGale for art
-- 🌱 I’m currently working on my game Battle Tower.
+- 🌱 I’m currently working on a game called "Battle Tower".
 - 📫 How to reach me: My username is the same across github, twitter, and instagram!
 
 <!---
